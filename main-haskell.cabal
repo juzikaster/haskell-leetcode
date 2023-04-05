@@ -30,6 +30,7 @@ executable main-haskell
     other-modules:
       Problems.TwoSum
       Problems.MedianOfTwoSortedArrays
+      Problems.ReverseInteger
 
     -- Modules included in this executable, other than Main.
     -- other-modules:
