@@ -1,1 +1,1 @@
-#haskell-leetcode
+# haskellleetcode
